@@ -3,4 +3,4 @@ What's up guys ! I recently learned about Listview , model class , custom adapte
 
 The APK file can be download from - https://github.com/manav4499/Planet-App/blob/master/app-debug.apk
 
-You can see the video demonstration in my linkden post  - 
+You can see the video demonstration in my linkden post  - https://www.linkedin.com/feed/update/urn:li:activity:7104465545009278976/
